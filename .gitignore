@@ -1,0 +1,5 @@
+# Ảnh gốc (chưa nén, có ảnh riêng tư) — web dùng ảnh trong assets/
+images/
+.claude/
+Thumbs.db
+desktop.ini
